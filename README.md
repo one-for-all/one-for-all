@@ -4,7 +4,7 @@ Hi 👋 My name is Jay Li
 Robotics Simulation Engineer & Solo Founder
 -------------------------------------------
 
-I was born in Zhoushan, China. I always liked physics as a kid, and used to think that if I learn all of physics, I could explain the whole world. (which turns out to be untrue... :))
+I was born in Zhoushan, China. I always liked physics as a kid, and used to think that if I learn all of physics, I could explain the whole world. (which turns out to be untrue... :(
 
 I had my first experience of robotics after I went to U.S. for undergraduate and joined a robotics club. Since then I had worked on many kinds of robots, including underwater robot, robot arm, drone, quadruped, bionic hand.
 
