@@ -17,7 +17,7 @@ With that "epiphany", I am now fully committed to working on robotics simulation
 *   🌍  I'm based in Kyoto, Japan
 *   ✉️  You can contact me at [jn.sapiens@gmail.com](mailto:jn.sapiens@gmail.com)
 *   🚀  I'm currently working on [Physics Engine for Robotics in Rust](http://github.com/one-for-all/gorilla-physics)
-*   🧠  I'm learning how to do sales
+*   🧠  I'm learning fluid simulation
 *   🤝  I'm open to collaborating on anything robotics!
 *   ⚡  I think all happiness in life come from two sources: creation & human relationship
 
