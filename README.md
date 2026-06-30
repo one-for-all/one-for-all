@@ -1,7 +1,7 @@
 Hi 👋 My name is Jay Li
 =======================
 
-Robotics Simulation Engineer & Solo Founder
+Robotics Simulation Engineer & Founder
 -------------------------------------------
 I always liked physics as a kid, and used to think that if I learn all of physics, I could explain the whole world. (which turns out to be untrue.... :(
 
